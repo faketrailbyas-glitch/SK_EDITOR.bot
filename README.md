@@ -1,0 +1,1 @@
+# SK_EDITOR.bot
